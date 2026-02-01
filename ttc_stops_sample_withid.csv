@@ -1,0 +1,75 @@
+id,stop_name,lat,lon
+1,Union Station,43.6453,-79.3806
+2,King Station,43.6490,-79.3778
+3,Queen Station,43.6523,-79.3791
+4,Dundas Station,43.6562,-79.3803
+5,College Station,43.6614,-79.3834
+6,Wellesley Station,43.6655,-79.3842
+7,Bloor-Yonge Station,43.6709,-79.3858
+8,Rosedale Station,43.6770,-79.3888
+9,Summerhill Station,43.6823,-79.3910
+10,St Clair Station,43.6879,-79.3935
+11,Davisville Station,43.6976,-79.3972
+12,Eglinton Station,43.7065,-79.3983
+13,Lawrence Station,43.7251,-79.4018
+14,York Mills Station,43.7445,-79.4069
+15,Sheppard-Yonge Station,43.7617,-79.4112
+16,North York Centre Station,43.7687,-79.4134
+17,Finch Station,43.7808,-79.4148
+18,St George Station,43.6683,-79.3997
+19,Spadina Station (Bloor),43.6673,-79.4038
+20,Bathurst Station,43.6665,-79.4112
+21,Christie Station,43.6643,-79.4184
+22,Ossington Station,43.6624,-79.4265
+23,Dufferin Station,43.6600,-79.4355
+24,Lansdowne Station,43.6592,-79.4428
+25,Dundas West Station,43.6568,-79.4529
+26,Keele Station,43.6556,-79.4595
+27,High Park Station,43.6539,-79.4664
+28,Runnymede Station,43.6513,-79.4760
+29,Jane Station,43.6498,-79.4840
+30,Old Mill Station,43.6500,-79.4944
+31,Royal York Station,43.6478,-79.5100
+32,Islington Station,43.6455,-79.5242
+33,Kipling Station,43.6372,-79.5358
+34,Bay Station,43.6702,-79.3900
+35,Sherbourne Station,43.6726,-79.3764
+36,Castle Frank Station,43.6737,-79.3686
+37,Broadview Station,43.6769,-79.3583
+38,Chester Station,43.6784,-79.3524
+39,Pape Station,43.6800,-79.3449
+40,Donlands Station,43.6813,-79.3379
+41,Greenwood Station,43.6828,-79.3305
+42,Coxwell Station,43.6842,-79.3232
+43,Woodbine Station,43.6865,-79.3126
+44,Main Street Station,43.6891,-79.3015
+45,Victoria Park Station,43.6953,-79.2930
+46,Warden Station,43.7112,-79.2797
+47,Kennedy Station,43.7326,-79.2638
+48,Museum Station,43.6672,-79.3935
+49,Queen's Park Station,43.6600,-79.3907
+50,St Patrick Station,43.6548,-79.3885
+51,Osgoode Station,43.6507,-79.3868
+52,St Andrew Station,43.6476,-79.3845
+53,Dupont Station,43.6747,-79.4065
+54,St Clair West Station,43.6840,-79.4150
+55,Eglinton West Station,43.6995,-79.4364
+56,Glencairn Station,43.7088,-79.4410
+57,Lawrence West Station,43.7160,-79.4440
+58,Yorkdale Station,43.7244,-79.4522
+59,Wilson Station,43.7345,-79.4588
+60,Downsview Park Station,43.7532,-79.4780
+61,Sheppard West Station,43.7497,-79.4603
+62,Finch West Station,43.7655,-79.4910
+63,Pioneer Village Station,43.7778,-79.5094
+64,Highway 407 Station,43.7841,-79.5232
+65,Vaughan Metropolitan Centre,43.7943,-79.5272
+66,Bayview Station,43.7678,-79.3863
+67,Bessarion Station,43.7693,-79.3760
+68,Leslie Station,43.7715,-79.3654
+69,Don Mills Station,43.7758,-79.3465
+70,Scarborough Centre Station,43.7749,-79.2571
+71,Midland Station,43.7708,-79.2723
+72,Ellesmere Station,43.7669,-79.2882
+73,Lawrence East Station,43.7506,-79.2702
+74,Kennedy Station (SRT),43.7326,-79.2638
